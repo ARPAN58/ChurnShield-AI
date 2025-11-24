@@ -56,12 +56,9 @@ ChurnShield-AI/
 
 ## 🌐 Live Demo
 
-Try the live demo on Streamlit Cloud: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ARPAN58/ChurnShield-AI/netflix_ui.py)
+Try the live demo on Streamlit Cloud: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://churnshield-ai-e2g3xhzgq53fcamqqya7e9.streamlit.app/)
 
-## 📊 Screenshots
 
-![Dashboard Preview](https://churnshield-ai-e2g3xhzgq53fcamqqya7e9.streamlit.app/)
-*Figure: ChurnShield AI Dashboard*
 
 ## 📚 How It Works
 
