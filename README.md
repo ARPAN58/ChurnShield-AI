@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Your Name - ARPAN SINGH - arpansinghh2121@gmail.com
 
 Project Link: [https://github.com/ARPAN58/ChurnShield-AI](https://github.com/ARPAN58/ChurnShield-AI)
 
