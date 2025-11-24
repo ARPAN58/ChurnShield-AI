@@ -41,8 +41,9 @@ ENV/
 ehthumbs.db
 Thumbs.db
 
-# Model files (if you want to exclude them and use a different storage solution)
-*.pkl
+# Model files
+!churn_model.pkl
+!model_columns.pkl
 *.h5
 *.model
 
