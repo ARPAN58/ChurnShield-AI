@@ -60,7 +60,7 @@ Try the live demo on Streamlit Cloud: [![Streamlit App](https://static.streamlit
 
 ## 📊 Screenshots
 
-![Dashboard Preview](https://via.placeholder.com/800x500.png?text=ChurnShield+AI+Dashboard+Preview)
+![Dashboard Preview](https://churnshield-ai-e2g3xhzgq53fcamqqya7e9.streamlit.app/)
 *Figure: ChurnShield AI Dashboard*
 
 ## 📚 How It Works
