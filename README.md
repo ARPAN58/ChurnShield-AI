@@ -105,5 +105,5 @@ Project Link: [https://github.com/ARPAN58/ChurnShield-AI](https://github.com/ARP
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name
+  Made with ❤️ by Arpan singh
 </div>
